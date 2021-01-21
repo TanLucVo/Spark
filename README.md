@@ -1,4 +1,3 @@
-![TanLuc's github stats](https://github-readme-stats.vercel.app/api?username=TanLucVo&theme=dark&show_icons=true)
 # Tổng quan về Apache Spark
 ![Image of Apache Spark](https://viblo.asia/uploads/e458bfb3-2876-490e-8456-d1b03f87600c.jpg)
 
