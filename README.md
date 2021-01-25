@@ -82,7 +82,8 @@ Spark có thể chạy trên nhiều loại Cluster Managers như Hadoop YARN, A
   - Sẽ thống kê được các lượt truy cập của khách hàng sao cho nó có thể tương ứng với các URLs.
   - Sẽ thống kê được tất cả từ khóa có trên website, hostname,…
 
+### Tài liệu tham khảo
 
-  
-  
+  - https://viblo.asia/p/tim-hieu-ve-apache-spark-ByEZkQQW5Q0
+  - https://blog.itnavi.com.vn/mapreduce-nhung-uu-diem-va-cach-thuc-hoat-dong-cua-nen-tang-nay/
     
