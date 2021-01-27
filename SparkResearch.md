@@ -230,11 +230,14 @@ DataFrame là một Tập dữ liệu được tổ chức thành các cột đ�
     df.sort("department","state").show(false)
     df.sort(col("department"),col("state")).show(false)
   ```
+  
   Sắp xếp tăng dần
-    ```python
-    df.sort(col("department").asc,col("state").asc).show(false)
-    df.orderBy(col("department").asc,col("state").asc).show(false)
-    ```
+  
+  ```python
+  df.sort(col("department").asc,col("state").asc).show(false)
+  df.orderBy(col("department").asc,col("state").asc).show(false)
+   ```
+    
  ### Replace NULL Values on DataFrame
  ```python 
     df.na.fill("unknown",Array("city"))
